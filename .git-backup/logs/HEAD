@@ -1,5 +1,0 @@
-0000000000000000000000000000000000000000 a4312faf949533933a29d0eda2d65db10d475fee davidcarroll <122368531@umail.ucc.ie> 1776870751 +0100	commit (initial): Initial Expo project setup with TypeScript
-a4312faf949533933a29d0eda2d65db10d475fee 0000000000000000000000000000000000000000 davidcarroll <122368531@umail.ucc.ie> 1776870751 +0100	Branch: renamed refs/heads/main to refs/heads/main
-a4312faf949533933a29d0eda2d65db10d475fee a4312faf949533933a29d0eda2d65db10d475fee davidcarroll <122368531@umail.ucc.ie> 1776870751 +0100	Branch: renamed refs/heads/main to refs/heads/main
-a4312faf949533933a29d0eda2d65db10d475fee 2f3cba9d9b72a8bcbb154b46fa6d0c53eb922ad5 davidcarroll <122368531@umail.ucc.ie> 1776873580 +0100	commit: Create basic GymTracker welcome screen
-2f3cba9d9b72a8bcbb154b46fa6d0c53eb922ad5 91fa41402c6485a727d4faad1c15000adf4319da davidcarroll <122368531@umail.ucc.ie> 1776874663 +0100	commit: Add homescreen component and connect it to App.tsx
